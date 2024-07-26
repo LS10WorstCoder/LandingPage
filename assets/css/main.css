@@ -3912,3 +3912,8 @@ input, select, textarea {
 	width: 100px;
 	height: auto;
 }
+
+#one img {
+	width: 50px;
+	height: auto;
+}
